@@ -1,6 +1,7 @@
 import styled from 'styled-components'
 
 export const Formulario = styled.form`
+  padding: 16px;
   display: grid;
   grid-template-columns: 1fr auto;
 
